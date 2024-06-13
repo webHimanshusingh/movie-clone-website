@@ -1,7 +1,7 @@
 # movie-booking-website
 
 LinkedIn- https://www.linkedin.com/in/website-himanshu-singh<br>
-https://github.com/webHimanshusingh<br>
+GitHub- https://github.com/webHimanshusingh<br>
 # Jion us
 Creating a movie clone website involves building a site that replicates the functionality and<br>
 design of a popular movie streaming service like Netflix or Hulu. This will include features like displaying a list of movies, a search function, and perhaps even user authentication.<br>
