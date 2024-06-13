@@ -1,1 +1,1 @@
-# movie-clone-website
+# movie-booking-website
