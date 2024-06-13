@@ -18,3 +18,8 @@ Next, style your website with CSS to make it visually appealing.<br>
 Finally, add interactivity with JavaScript. This will include fetching movie data and dynamically inserting movie items into the HTML.<br>
 
 # Output - 1
+![Screenshot 2024-06-13 080327](https://github.com/webHimanshusingh/movie-clone-website/assets/170223793/b5471979-0921-4d50-94e8-b021fc2b0172)
+# Output - 2
+![Screenshot 2024-06-13 080346](https://github.com/webHimanshusingh/movie-clone-website/assets/170223793/d4fa6aaf-4712-497f-adf6-fecd1513f31e)
+# Output - 3
+![Screenshot 2024-06-13 080401](https://github.com/webHimanshusingh/movie-clone-website/assets/170223793/119b126c-54dd-4995-b5ad-51439d3af309)
