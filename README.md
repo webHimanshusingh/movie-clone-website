@@ -2,6 +2,9 @@
 
 LinkedIn- https://www.linkedin.com/in/website-himanshu-singh<br>
 GitHub- https://github.com/webHimanshusingh<br>
+## 📌 Tech Stack
+[![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/jigar-sable/Portfolio-Website/search?l=html)&nbsp;
+[![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/jigar-sable/Portfolio-Website/search?l=css)&nbsp;
 # Jion us
 Creating a movie clone website involves building a site that replicates the functionality and<br>
 design of a popular movie streaming service like Netflix or Hulu. This will include features like displaying a list of movies, a search function, and perhaps even user authentication.<br>
